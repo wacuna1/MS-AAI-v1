@@ -10,19 +10,19 @@ The purpose of this project is to determine whether or not there is a correlatio
 - Contact
 ## Requirements
 This project requires the following modules:
-NumPy - https://numpy.org/
-[Pandas] - https://pandas.pydata.org/
-[Matplotlib] - https://matplotlib.org/
-[Statsmodels] - https://www.statsmodels.org/stable/index.html
-[Scipy.stats] - https://docs.scipy.org/doc/scipy/index.html
+- [NumPy] - https://numpy.org/
+- [Pandas] - https://pandas.pydata.org/
+- [Matplotlib] - https://matplotlib.org/
+- [Statsmodels] - https://www.statsmodels.org/stable/index.html
+- [Scipy.stats] - https://docs.scipy.org/doc/scipy/index.html
 ## Installation
 Prerequisite: Python is already installed to the latest version.
 Install as you normally would install other Python modules. For additional information please refer to the indivial module's installation guides, which will be linked below.
-[NumPy] installation guide - https://numpy.org/install/
-[Pandas] installation guide - https://pandas.pydata.org/docs/getting_started/install.html
-[Matplotlib] installation guide - https://matplotlib.org/stable/users/installing/index.html
-[Statsmodels] installation guide - https://www.statsmodels.org/stable/install.html
-[Scipy.stats] installation guide - https://scipy.org/install/
+- [NumPy] installation guide - https://numpy.org/install/
+- [Pandas] installation guide - https://pandas.pydata.org/docs/getting_started/install.html
+- [Matplotlib] installation guide - https://matplotlib.org/stable/users/installing/index.html
+- [Statsmodels] installation guide - https://www.statsmodels.org/stable/install.html
+- [Scipy.stats] installation guide - https://scipy.org/install/
 ## Configuration
 This project has no menu or modifiable settings, and there is no configuration. 
 ## Collaberation
