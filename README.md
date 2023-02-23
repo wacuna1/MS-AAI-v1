@@ -2,7 +2,7 @@
 # A Study of Obesity and the Relation to Physical Condition and Eating Habits
 ## Project Status: Uncomplete
 ## Introduction:
-The purpose of this project is to determine whether or not there is a correlation between obesity levels and eating habits and physical condition. This project may be considered useful to help determine if there is indeed a correlation between the categorical and numerical values, along with help prevent obesity that the complications that may occur with it in the future. 
+The purpose of this project is to determine whether or not there is a correlation between obesity levels and eating habits and physical condition. This project may be considered useful to help determine if there is indeed a correlation between the categorical and numerical values, along with help prevent obesity that the complications that may occur with it in the future. Obesity is related to numerous life-threating conditions, such as diabetes, heart disease, and some types of cancer, whose early prevention would be highly beneficial not only for those affected by the disease but also for the national healthcare system. In addition, We evaluate univariate associations between 6 eating habits and 4 physical condition attributes and the obesity level on the entire dataset. To this purpose, we use statistical methods such as the Mann-Whitney U test, chi-squared test, and linear regression. 
 ## Table of Contents
 - Requirements
 - Installation
