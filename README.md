@@ -1,13 +1,18 @@
 # MS-AAI-v1
+
 # A Study of Obesity and the Relation to Physical Condition and Eating Habits
-## Project Status: Uncomplete
+
+## Project Status: Complete 
+
 ## Introduction:
-The purpose of this project is to determine whether or not there is a correlation between obesity levels and eating habits and physical condition. This project may be considered useful to help determine if there is indeed a correlation between the categorical and numerical values, along with help prevent obesity that the complications that may occur with it in the future. Obesity is related to numerous life-threating conditions, such as diabetes, heart disease, and some types of cancer, whose early prevention would be highly beneficial not only for those affected by the disease but also for the national healthcare system. In addition, We evaluate univariate associations between 6 eating habits and 4 physical condition attributes and the obesity level on the entire dataset. To this purpose, we use statistical methods such as the Mann-Whitney U test, chi-squared test, and linear regression. 
+Physical condition and eating habits among people can lead to a multitude of complications such as obesity, which represents a pervasive problem in many countries. In this study, we have analyzed an existing dataset (De-La-Hoz-Correa et al., 2019; Palechor & Manotas, 2019), including 2111 records and 17 attributes possibly linked to obesity, and reached two main objectives. Firstly, we have evaluated univariate associations between 14 attributes and obesity level on the entire dataset, thereby identifying the most important factors related to overweight and obesity. Secondly, two different methods have then been tested to predict if a person is overweight/obese or not, based on the most influential attributes associated to overweight or obesity. 
+
 ## Table of Contents
 - Requirements
 - Installation
 - Configuration
 - Contact
+
 ## Requirements
 This project requires the following modules:
 - [NumPy] - https://numpy.org/
@@ -15,22 +20,30 @@ This project requires the following modules:
 - [Matplotlib] - https://matplotlib.org/
 - [Statsmodels] - https://www.statsmodels.org/stable/index.html
 - [Scipy.stats] - https://docs.scipy.org/doc/scipy/index.html
+- [scikit-learn] - https://scikit-learn.org/stable/tutorial/index.html
+[seaborn] - https://seaborn.pydata.org/tutorial/introduction
+
 ## Installation
 Prerequisite: Python is already installed to the latest version.
-Install as you normally would install other Python modules. For additional information please refer to the indivial module's installation guides, which will be linked below.
+Install it as you normally would install other Python modules. For additional information please refer to the indivial module's installation guides, which will be linked below.
 - [NumPy] installation guide - https://numpy.org/install/
 - [Pandas] installation guide - https://pandas.pydata.org/docs/getting_started/install.html
 - [Matplotlib] installation guide - https://matplotlib.org/stable/users/installing/index.html
 - [Statsmodels] installation guide - https://www.statsmodels.org/stable/install.html
 - [Scipy.stats] installation guide - https://scipy.org/install/
+- [scikit-learn] - installation guide - https://scikit-learn.org/stable/install.html
+- [seaborn] installation guide - https://seaborn.pydata.org/installing.html
+
 ## Configuration
 This project has no menu or modifiable settings, and there is no configuration. 
-## Collaberation
-Further analysis of the data set is permitted. Collaberation is welcome and greatly appreciated. 
+
+## Collaboration
+Further analysis of the data set is permitted. Collaboration is welcome and greatly appreciated. 
 If you wish to contribute, please fork the repo and create a new pull request. 
 Please also give the project a star if you wish to collaborate! 
+
 ## Contact
+William Acuna - wacuna@sandiego.edu
+Caterina Gallo - cgallo@sandiego.edu
 Sophia Mares - smares@sandiego.edu
-William Acuna - 
-Caterina Gallo - 
 Project Link: https://github.com/wacuna1/MS-AAI-v1.git
